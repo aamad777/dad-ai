@@ -1,3 +1,9 @@
+streamlit==1.36.0
+streamlit-lottie==0.0.5
+pandas
+numpy
+requests
+openai
 altair==5.5.0
 annotated-types==0.7.0
 anyio==4.9.0
